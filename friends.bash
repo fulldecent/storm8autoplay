@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd codes
+
 touch tried.kl tried.im tried.rl tried.vl tried.wwar tried.rol tried.zl tried.nl
 
 # wc -l codes* tried*
@@ -37,7 +39,7 @@ action
 COOKIE="Cookie: fpts=25; pf=8FEDD04E5169B1FB094462392BC7F321; uid=3928906; Version=PointPackage"
 SERVER="rl"
 action
-  
+
 ### VAMPIRES
 COOKIE="Cookie: fpts=15; pf=D79A0F73BE30E340777FE9E50FC06E4D; uid=2330131; Version=PointPackage"
 SERVER="vl"
@@ -62,4 +64,3 @@ action
 COOKIE="Cookie: pf=DCD0CFAE748BD5BDFFF5FD94B758B4FA; uid=510905; Version=Paid"
 SERVER="nl"
 action
-
