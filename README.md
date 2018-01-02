@@ -1,3 +1,5 @@
+**This project is dead. If you want to take the torch, call me.**
+
 # Summary
 
 Autoplay automates the leveling-up gameplay steps of Storm8 games. Fully automated play works for most games.
